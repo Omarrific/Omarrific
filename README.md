@@ -10,9 +10,9 @@ When I'm not coding, I'm diving into new technologies, refining my skills, and b
 
 - 🔭 I'm currently working on a [Wildfire Tracker](https://github.com/Omarrific/disaster-tracker)
 
-- 🌱 I’m currently learning **ML, AI, LLMs, and more!**
+- ⚙️ I’m currently learning about **ML, AI, LLMs, and more!**
 
-- Visit my portfolio [here](https://omarrific.github.io/)
+- 💻 Visit my portfolio [here](https://omarrific.github.io/)
 
 - 📫 Reach me at **oabuhammoud@gmail.com**
 
