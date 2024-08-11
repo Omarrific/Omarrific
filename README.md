@@ -8,7 +8,7 @@ I've built projects like [Chronobreak](https://omarriffic.itch.io/chronobreak), 
 When I'm not coding, I'm diving into new technologies, refining my skills, and brainstorming innovative ideas. I'm always open to connecting and collaborating on exciting projects. Feel free to explore my repositories and drop me a message—I'm eager to learn, share, and build together!
 
 
-- 🔭 I'm currently working on a [Wildfire Tracker](https://github.com/Omarrific/disaster-tracker)
+- 🔭 I'm currently working on a Note-Taking app, [Capture](https://github.com/Omarrific/Capture)
 
 - ⚙️ I’m currently learning about **ML, AI, LLMs, and more!**
 
